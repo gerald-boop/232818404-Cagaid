@@ -1,0 +1,30 @@
+    1  pkg upgrade
+    2  pkg install cmatrix
+    3  cmatrix
+    4  package install proot-distro
+    5  packet proot distro
+    6  package install proot distro
+    7  package install proot -distro
+    8  pkg install proot -distro
+    9  clear
+   10  pkg install proot -distro
+   11  exit
+   12  clear
+   13  pkg install proot -distro
+   14  exit
+   15  pkg update 
+   16  pkg upgrade
+   17  pkg install proot -distro
+   18  pkg search proot
+   19  pkg install proot -distro
+   20  pkg install proot-distro
+   21  proot-distro install ubuntu
+   22  proot-distro login ubuntu
+   23  exit
+   24  git checkout -b finalexam
+   25  ls
+   26  cd 232818404-Cagaid
+   27  git checkout -b finalexam
+   28  ls
+   29  git push
+   30  history > exam_log.txt
